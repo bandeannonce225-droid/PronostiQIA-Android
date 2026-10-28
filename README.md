@@ -1,0 +1,2 @@
+# PronostiQIA-Android
+PronostiQ IA
